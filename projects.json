@@ -7,6 +7,14 @@
    "video": "/assets/archives/shiny-button/shiny-button.mp4",
     "linkType": "Demo",
     "link": "https://shiny-animated-button.netlify.app/"
+    },
+    {"id":1,
+    "name": "New Archive",
+    "description":"React.js ",
+    "thumbnail": "/assets/archives/archive-1/thumb-1.jpg",
+   "video": "/assets/archives/shiny-button/shiny-button.mp4",
+    "linkType": "Demo",
+    "link": "https://shiny-animated-button.netlify.app/"
     }
 
   ]
