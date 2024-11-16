@@ -22,7 +22,7 @@
     "thumbnail": "/assets/projects/apple-website-clone/apple-image.webp",
     "tech" : "Web Developement, Web Design"
   },
-  { "id": 3, 
+  { "id": 3,
     "name": "Portfolio 1.0 - 2023",
     "description": "First portfolio website",
     "thumbnail": "/assets/projects/portfolio-1/thumb.jpeg",
@@ -35,7 +35,7 @@
       "url": "https://kalakarindiaace.com/",
       "description": "Kalakar India ACE is a music studio and talent management based in Pune, focused on nurturing and promoting artists. They offer music production, talent management, and artist promotion services, creating a collaborative platform for talents to excel.",
       "thumbnail": ["/assets/projects/kalakar-india-ace/ss-1.png", "/assets/projects/kalakar-india-ace/ss-2.png"],
-      "services" : ["Web Design', 'Web Development"],
+      "services" : ["Web Design", "Web Development"],
       "tech" : ["React js", "Tailwind", "Framer"]
   },
 
