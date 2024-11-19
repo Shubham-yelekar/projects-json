@@ -7,7 +7,16 @@
    "video": "/assets/archives/shiny-button/shiny-button.mp4",
     "linkType": "Demo",
     "link": "https://shiny-animated-button.netlify.app/"
+    },
+    {"id":2,
+    "name": "Link hover animation",
+    "description":"React.js , Tailwind CSS & Framer Motion  ",
+    "thumbnail": "/assets/archives/link-hover/Screenshot_2.jpg",
+   "video": "/assets/archives/link-hover/Text-Link-Hover.mp4",
+    "linkType": "Demo",
+    "link": "https://text-link-hover-animation-framer.netlify.app/"
     }
+
   ],
   "projectList" :[
     { "id": 1,
