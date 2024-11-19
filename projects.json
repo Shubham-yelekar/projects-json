@@ -15,6 +15,14 @@
    "video": "/assets/archives/link-hover/Text-Link-Hover.mp4",
     "linkType": "Demo",
     "link": "https://text-link-hover-animation-framer.netlify.app/"
+    },
+    {"id":3,
+    "name": "Link hover animation",
+    "description":"React.js , Tailwind CSS & Framer Motion  ",
+    "thumbnail": "/assets/archives/link-hover/Screenshot_2.jpg",
+   "video": "/assets/archives/link-hover/Text-Link-Hover.mp4",
+    "linkType": "Demo",
+    "link": "https://text-link-hover-animation-framer.netlify.app/"
     }
 
   ],
