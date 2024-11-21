@@ -4,7 +4,7 @@
     "name": "The Planets",
     "description":"ThreeJs , Tailwind CSS & GSAP ",
     "thumbnail": "/assets/archives/the-planets/Screenshot.jpg",
-   "video": "/assets/archives/link-hover/the-planets.mp4",
+   "video": "/assets/archives/the-planets/the-planets.mp4",
     "linkType": "Demo",
     "link": "https://threejs-the-planets.netlify.app/"
     },
