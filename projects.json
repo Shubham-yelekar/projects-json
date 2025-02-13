@@ -1,6 +1,14 @@
 {
   "archive" : [
     {"id":1,
+    "name": "3d Text - Mini Project",
+    "description":"ThreeJs Journey",
+    "thumbnail": "/assets/archives/3d-text/12-3d-text-project.jpg",
+   "video": "/assets/archives/the-planets/3d-text.mp4",
+    "linkType": "Demo",
+    "link": "https://12-3d-text-project.netlify.app/"
+    },
+    {"id":2,
     "name": "The Planets",
     "description":"ThreeJs , Tailwind CSS & GSAP ",
     "thumbnail": "/assets/archives/the-planets/Screenshot.jpg",
@@ -8,7 +16,7 @@
     "linkType": "Demo",
     "link": "https://threejs-the-planets.netlify.app/"
     },
-    {"id":2,
+    {"id":3,
     "name": "Shiny Animated Button",
     "description":"React.js , Tailwind CSS & Framer Motion  ",
     "thumbnail": "/assets/archives/archive-1/thumb-1.jpg",
@@ -16,7 +24,7 @@
     "linkType": "Demo",
     "link": "https://shiny-animated-button.netlify.app/"
     },
-    {"id":3,
+    {"id":4,
     "name": "Link hover animation",
     "description":"React.js , Tailwind CSS & Framer Motion  ",
     "thumbnail": "/assets/archives/link-hover/Screenshot_2.jpg",
