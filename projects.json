@@ -36,18 +36,24 @@
   ],
   "projectList" :[
     { "id": 1,
+    "name": "Toyota Taisor",
+    "description": "At Artificial Reality i got opportunity to work on Toyota's Urban Cruiser Taisor product page",
+    "thumbnail": "/assets/projects/toyota-taisor/thumb.jpeg",
+    "tech" : "Web Developement, Web Design"
+   },
+    { "id": 2,
     "name": "Kalakar India Ace",
     "description": "For Kalakar India ACE, I designed an engaging UI/UX and developed a responsive, high-performing website using React and Tailwind",
     "thumbnail": "/assets/projects/kalakar-india-ace/thumb-image-desktop.png",
     "tech" : "Web Developement, Web Design"
    },
-  { "id": 2,
+  { "id": 3,
     "name": "Apple Clone",
     "description": "Recreating complex, animation, transitions and componenets of official Apple website.",
     "thumbnail": "/assets/projects/apple-website-clone/apple-image.webp",
     "tech" : "Web Developement, Web Design"
   },
-  { "id": 3,
+  { "id": 4,
     "name": "Portfolio 1.0 - 2023",
     "description": "First portfolio website",
     "thumbnail": "/assets/projects/portfolio-1/thumb.jpeg",
@@ -56,6 +62,14 @@
   ],
   "projectDetails":[
     { "id": 1,
+    "name": "Toyota Taisor",
+    "url": "https://www.toyotabharat.com/showroom/urbancruiser-taisor/",
+    "description": "At Artificial Reality I got opportunity to work on Toyota's Urban Cruiser Taisor product page. Experimented with various designs and interactions using GSAP and clip masks",
+    "thumbnail": ["/assets/projects/toyota-taisor/thumb.jpeg", "/assets/projects/ptoyota-taisor/ss-1.jpeg", "/assets/projects/toyota-taisor/ss-2.jpeg" ],
+    "services" : ["Web Design", "Web Development"],
+    "tech" : ["Vanila js", "Css", "HTML", "GSAP"]
+   },
+    { "id": 2,
       "name": "Kalakar India Ace",
       "url": "https://kalakarindiaace.com/",
       "description": "Kalakar India ACE is a music studio and talent management based in Pune, focused on nurturing and promoting artists. They offer music production, talent management, and artist promotion services, creating a collaborative platform for talents to excel.",
@@ -64,7 +78,7 @@
       "tech" : ["React js", "Tailwind", "Framer"]
   },
 
-  { "id": 2,
+  { "id": 3,
     "name": "Apple Clone",
      "url": "https://applewebsitecloneshubu.netlify.app/",
      "description": "Apple Websites always inspired me and motivated me to deconstruct and re-engineer the complex interactions.",
@@ -73,7 +87,7 @@
      "tech" : ["React js", "Tailwind", "Framer"]
     }
   ,
-  { "id": 3,
+  { "id": 4,
     "name": "Portfolio 1.0 - 2023",
     "url": "https://shubham-yelekar.netlify.app/",
     "description": "First portfolio website.",
