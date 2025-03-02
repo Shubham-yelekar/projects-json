@@ -65,7 +65,7 @@
     "name": "Toyota Taisor",
     "url": "https://www.toyotabharat.com/showroom/urbancruiser-taisor/",
     "description": "At Artificial Reality I got opportunity to work on Toyota's Urban Cruiser Taisor product page. Experimented with various designs and interactions using GSAP and clip masks",
-    "thumbnail": ["/assets/projects/toyota-taisor/thumb.jpeg", "/assets/projects/ptoyota-taisor/ss-1.jpeg", "/assets/projects/toyota-taisor/ss-2.jpeg" ],
+    "thumbnail": ["/assets/projects/toyota-taisor/thumb.jpeg", "/assets/projects/toyota-taisor/ss-1.jpeg", "/assets/projects/toyota-taisor/ss-2.jpeg" ],
     "services" : ["Web Design", "Web Development"],
     "tech" : ["Vanila js", "Css", "HTML", "GSAP"]
    },
