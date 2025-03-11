@@ -71,7 +71,7 @@
    },
     { "id": 2,
       "name": "Kalakar India Ace",
-      "url": "https://kalakarindiaace.com/",
+      "url": "https://next-js-kalakar-india.vercel.app/",
       "description": "Kalakar India ACE is a music studio and talent management based in Pune, focused on nurturing and promoting artists. They offer music production, talent management, and artist promotion services, creating a collaborative platform for talents to excel.",
       "thumbnail": ["/assets/projects/kalakar-india-ace/ss-1.png", "/assets/projects/kalakar-india-ace/ss-2.png"],
       "services" : ["Web Design", "Web Development"],
