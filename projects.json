@@ -1,100 +1,153 @@
 {
-  "archive" : [
-    {"id":1,
-    "name": "3d Text - Mini Project",
-    "description":"ThreeJs Journey",
-    "thumbnail": "/assets/archives/3d-text/12-3d-text-project.jpg",
-   "video": "/assets/archives/3d-text/3d-text.mp4",
-    "linkType": "Demo",
-    "link": "https://12-3d-text-project.netlify.app/"
+  "archive": [
+    {
+      "id": 1,
+      "type": "mini",
+      "name": "3d Text - Mini Project",
+      "tags": ["three.js"],
+      "description": "ThreeJs Journey",
+      "thumbnail": "/assets/archives/3d-text/12-3d-text-project.jpg",
+      "video": "/assets/archives/3d-text/3d-text.mp4",
+      "linkType": "Demo",
+      "link": "https://12-3d-text-project.netlify.app/"
     },
-    {"id":2,
-    "name": "The Planets",
-    "description":"ThreeJs , Tailwind CSS & GSAP ",
-    "thumbnail": "/assets/archives/the-planets/Screenshot.jpg",
-   "video": "/assets/archives/the-planets/the-planets.mp4",
-    "linkType": "Demo",
-    "link": "https://threejs-the-planets.netlify.app/"
+    {
+      "id": 2,
+      "name": "The Planets",
+      "type": "major",
+      "tags": ["three.js", "gsap", "tailwind css"],
+      "description": "ThreeJs , Tailwind CSS & GSAP",
+      "thumbnail": "/assets/archives/the-planets/Screenshot.jpg",
+      "video": "/assets/archives/the-planets/the-planets.mp4",
+      "linkType": "Demo",
+      "link": "https://threejs-the-planets.netlify.app/"
     },
-    {"id":3,
-    "name": "Shiny Animated Button",
-    "description":"React.js , Tailwind CSS & Framer Motion  ",
-    "thumbnail": "/assets/archives/archive-1/thumb-1.jpg",
-   "video": "/assets/archives/shiny-button/shiny-button.mp4",
-    "linkType": "Demo",
-    "link": "https://shiny-animated-button.netlify.app/"
+    {
+      "id": 3,
+      "type": "mini",
+      "tags": ["components", "react.js", "tailwind css", "motion", "animation"],
+      "name": "Shiny Animated Button",
+      "description": "React.js , Tailwind CSS & Framer Motion  ",
+      "thumbnail": "/assets/archives/archive-1/thumb-1.jpg",
+      "video": "/assets/archives/shiny-button/shiny-button.mp4",
+      "linkType": "Demo",
+      "link": "https://shiny-animated-button.netlify.app/"
     },
-    {"id":4,
-    "name": "Link hover animation",
-    "description":"React.js , Tailwind CSS & Framer Motion  ",
-    "thumbnail": "/assets/archives/link-hover/Screenshot_2.jpg",
-   "video": "/assets/archives/link-hover/Text-Link-Hover.mp4",
-    "linkType": "Demo",
-    "link": "https://text-link-hover-animation-framer.netlify.app/"
+    {
+      "id": 4,
+      "type": "mini",
+      "tags": ["components", "react.js", "tailwind css", "motion", "animation"],
+      "name": "Link hover animation",
+      "description": "React.js , Tailwind CSS & Framer Motion  ",
+      "thumbnail": "/assets/archives/link-hover/Screenshot_2.jpg",
+      "video": "/assets/archives/link-hover/Text-Link-Hover.mp4",
+      "linkType": "Demo",
+      "link": "https://text-link-hover-animation-framer.netlify.app/"
+    },
+    {
+      "id": 5,
+      "type": "major",
+      "tags": ["three.js", "three.js journey"],
+      "name": "Fox animation",
+      "description": "three.js",
+      "thumbnail": "/assets/archives/fox-animation/fox-animation.jpg",
+      "video": "/assets/archives/fox-animation/fox-animation.mp4",
+      "linkType": "Demo",
+      "link": "https://fox-animation-3js-journey.netlify.app/"
+    },
+    {
+      "id": 6,
+      "type": "major",
+      "tags": ["three.js", "three.js journey"],
+      "name": "Hounted House",
+      "description": "three.js",
+      "thumbnail": "/assets/archives/haunted-house/haunted-house.jpg",
+      "video": "/assets/archives/haunted-house/haunted-house.mp4",
+      "linkType": "Demo",
+      "link": "https://haunted-house-3js-journey.netlify.app/"
     }
-
   ],
-  "projectList" :[
-    { "id": 1,
-    "name": "Toyota Taisor",
-    "description": "At Artificial Reality i got opportunity to work on Toyota's Urban Cruiser Taisor product page",
-    "thumbnail": "/assets/projects/toyota-taisor/thumb.jpeg",
-    "tech" : "Web Developement, Web Design"
-   },
-    { "id": 2,
-    "name": "Kalakar India Ace",
-    "description": "For Kalakar India ACE, I designed an engaging UI/UX and developed a responsive, high-performing website using React and Tailwind",
-    "thumbnail": "/assets/projects/kalakar-india-ace/thumb-image-desktop.png",
-    "tech" : "Web Developement, Web Design"
-   },
-  { "id": 3,
-    "name": "Apple Clone",
-    "description": "Recreating complex, animation, transitions and componenets of official Apple website.",
-    "thumbnail": "/assets/projects/apple-website-clone/apple-image.webp",
-    "tech" : "Web Developement, Web Design"
-  },
-  { "id": 4,
-    "name": "Portfolio 1.0 - 2023",
-    "description": "First portfolio website",
-    "thumbnail": "/assets/projects/portfolio-1/thumb.jpeg",
-    "tech" : "Web Developement, Web Design"
-  }
+  "projectList": [
+    {
+      "id": 1,
+      "name": "Toyota Taisor",
+      "description": "At Artificial Reality i got opportunity to work on Toyota's Urban Cruiser Taisor product page",
+      "thumbnail": "/assets/projects/toyota-taisor/thumb.jpeg",
+      "tech": "Web Developement, Web Design"
+    },
+    {
+      "id": 2,
+      "name": "Kalakar India Ace",
+      "description": "For Kalakar India ACE, I designed an engaging UI/UX and developed a responsive, high-performing website using React and Tailwind",
+      "thumbnail": "/assets/projects/kalakar-india-ace/thumb-image-desktop.png",
+      "tech": "Web Developement, Web Design"
+    },
+    {
+      "id": 3,
+      "name": "Apple Clone",
+      "description": "Recreating complex, animation, transitions and componenets of official Apple website.",
+      "thumbnail": "/assets/projects/apple-website-clone/apple-image.webp",
+      "tech": "Web Developement, Web Design"
+    },
+    {
+      "id": 4,
+      "name": "Portfolio 1.0 - 2023",
+      "description": "First portfolio website",
+      "thumbnail": "/assets/projects/portfolio-1/thumb.jpeg",
+      "tech": "Web Developement, Web Design"
+    }
   ],
-  "projectDetails":[
-    { "id": 1,
-    "name": "Toyota Taisor",
-    "url": "https://www.toyotabharat.com/showroom/urbancruiser-taisor/",
-    "description": "At Artificial Reality I got opportunity to work on Toyota's Urban Cruiser Taisor product page. Experimented with various designs and interactions using GSAP and clip masks",
-    "thumbnail": ["/assets/projects/toyota-taisor/thumb.jpeg", "/assets/projects/toyota-taisor/ss-1.jpeg", "/assets/projects/toyota-taisor/ss-2.jpeg" ],
-    "services" : ["Web Design", "Web Development"],
-    "tech" : ["Vanila js", "Css", "HTML", "GSAP"]
-   },
-    { "id": 2,
+  "projectDetails": [
+    {
+      "id": 1,
+      "name": "Toyota Taisor",
+      "url": "https://www.toyotabharat.com/showroom/urbancruiser-taisor/",
+      "description": "At Artificial Reality I got opportunity to work on Toyota's Urban Cruiser Taisor product page. Experimented with various designs and interactions using GSAP and clip masks",
+      "thumbnail": [
+        "/assets/projects/toyota-taisor/thumb.jpeg",
+        "/assets/projects/toyota-taisor/ss-1.jpeg",
+        "/assets/projects/toyota-taisor/ss-2.jpeg"
+      ],
+      "services": ["Web Design", "Web Development"],
+      "tech": ["Vanila js", "Css", "HTML", "GSAP"]
+    },
+    {
+      "id": 2,
       "name": "Kalakar India Ace",
       "url": "https://next-js-kalakar-india.vercel.app/",
       "description": "Kalakar India ACE is a music studio and talent management based in Pune, focused on nurturing and promoting artists. They offer music production, talent management, and artist promotion services, creating a collaborative platform for talents to excel.",
-      "thumbnail": ["/assets/projects/kalakar-india-ace/ss-1.png", "/assets/projects/kalakar-india-ace/ss-2.png"],
-      "services" : ["Web Design", "Web Development"],
-      "tech" : ["React js", "Tailwind", "Framer"]
-  },
+      "thumbnail": [
+        "/assets/projects/kalakar-india-ace/ss-1.png",
+        "/assets/projects/kalakar-india-ace/ss-2.png"
+      ],
+      "services": ["Web Design", "Web Development"],
+      "tech": ["React js", "Tailwind", "Framer"]
+    },
 
-  { "id": 3,
-    "name": "Apple Clone",
-     "url": "https://applewebsitecloneshubu.netlify.app/",
-     "description": "Apple Websites always inspired me and motivated me to deconstruct and re-engineer the complex interactions.",
-     "thumbnail": ["/assets/projects/apple-website-clone/apple-image.webp", "/assets/projects/apple-website-clone/ss-1.webp" ],
-     "services" : ["Web Design", "Web Development"],
-     "tech" : ["React js", "Tailwind", "Framer"]
+    {
+      "id": 3,
+      "name": "Apple Clone",
+      "url": "https://applewebsitecloneshubu.netlify.app/",
+      "description": "Apple Websites always inspired me and motivated me to deconstruct and re-engineer the complex interactions.",
+      "thumbnail": [
+        "/assets/projects/apple-website-clone/apple-image.webp",
+        "/assets/projects/apple-website-clone/ss-1.webp"
+      ],
+      "services": ["Web Design", "Web Development"],
+      "tech": ["React js", "Tailwind", "Framer"]
+    },
+    {
+      "id": 4,
+      "name": "Portfolio 1.0 - 2023",
+      "url": "https://shubham-yelekar.netlify.app/",
+      "description": "First portfolio website.",
+      "thumbnail": [
+        "/assets/projects/portfolio-1/thumb.jpeg",
+        "/assets/projects/portfolio-1/ss-1.jpeg",
+        "/assets/projects/portfolio-1/ss-2.jpeg"
+      ],
+      "services": ["Web Design", "Web Development"],
+      "tech": ["Vanila js", "Css", "Rive Animations"]
     }
-  ,
-  { "id": 4,
-    "name": "Portfolio 1.0 - 2023",
-    "url": "https://shubham-yelekar.netlify.app/",
-    "description": "First portfolio website.",
-    "thumbnail": ["/assets/projects/portfolio-1/thumb.jpeg", "/assets/projects/portfolio-1/ss-1.jpeg", "/assets/projects/portfolio-1/ss-2.jpeg" ],
-    "services" : ["Web Design", "Web Development"],
-    "tech" : ["Vanila js", "Css", "Rive Animations"]
-   }
   ]
-
 }
