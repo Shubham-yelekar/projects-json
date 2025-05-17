@@ -24,28 +24,6 @@
     },
     {
       "id": 3,
-      "type": "mini",
-      "tags": ["components", "react.js", "tailwind css", "motion", "animation"],
-      "name": "Shiny Animated Button",
-      "description": "React.js , Tailwind CSS & Framer Motion  ",
-      "thumbnail": "/assets/archives/archive-1/thumb-1.jpg",
-      "video": "/assets/archives/shiny-button/shiny-button.mp4",
-      "linkType": "Demo",
-      "link": "https://shiny-animated-button.netlify.app/"
-    },
-    {
-      "id": 4,
-      "type": "mini",
-      "tags": ["components", "react.js", "tailwind css", "motion", "animation"],
-      "name": "Link hover animation",
-      "description": "React.js , Tailwind CSS & Framer Motion  ",
-      "thumbnail": "/assets/archives/link-hover/Screenshot_2.jpg",
-      "video": "/assets/archives/link-hover/Text-Link-Hover.mp4",
-      "linkType": "Demo",
-      "link": "https://text-link-hover-animation-framer.netlify.app/"
-    },
-    {
-      "id": 5,
       "type": "major",
       "tags": ["three.js", "three.js journey"],
       "name": "Fox animation",
@@ -56,7 +34,7 @@
       "link": "https://fox-animation-3js-journey.netlify.app/"
     },
     {
-      "id": 6,
+      "id": 4,
       "type": "major",
       "tags": ["three.js", "three.js journey"],
       "name": "Hounted House",
