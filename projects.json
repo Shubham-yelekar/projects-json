@@ -50,8 +50,8 @@
       "tags": ["react.js", "motion", "tailwind css"],
       "name": "Lab",
       "description": "UI interaction exploration",
-      "thumbnail": "/assets/archives/lab/lab-thumb.js",
-      "video": "/assets/archives/lab/lab-thumb.js",
+      "thumbnail": "/assets/archives/lab/lab-thumb.jpeg",
+      "video": "/assets/archives/lab/lab.mp4",
       "linkType": "Demo",
       "link": "https://lab-drab-six.vercel.app/"
     }
