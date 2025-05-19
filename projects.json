@@ -43,6 +43,17 @@
       "video": "/assets/archives/haunted-house/haunted-house.mp4",
       "linkType": "Demo",
       "link": "https://haunted-house-3js-journey.netlify.app/"
+    },
+    {
+      "id": 5,
+      "type": "major",
+      "tags": ["react.js", "motion", "tailwind css"],
+      "name": "Lab",
+      "description": "UI interaction exploration",
+      "thumbnail": "/assets/archives/lab/lab-thumb.js",
+      "video": "/assets/archives/lab/lab-thumb.js",
+      "linkType": "Demo",
+      "link": "https://lab-drab-six.vercel.app/"
     }
   ],
   "projectList": [
