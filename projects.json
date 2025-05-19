@@ -82,10 +82,10 @@
       "url": "https://www.toyotabharat.com/showroom/lc300/",
       "description": "At Artificial Reality I got opportunity to re-design and develope new Toyota's Land Cruiser 300 product page — crafting the entire experience from concept to code with a focus on visual storytelling, performance, and responsive design.",
       "thumbnail": [
-        "/assets/projects/toyota-lc300/thumb.jpeg",
-        "/assets/projects/toyota-lc300/ss-1.jpeg",
-        "/assets/projects/toyota-lc300/ss-2.jpeg",
-        "/assets/projects/toyota-lc300/ss-3.jpeg"
+        "/assets/projects/toyota-lc300/thumb.webp",
+        "/assets/projects/toyota-lc300/ss-1.webp",
+        "/assets/projects/toyota-lc300/ss-2.webp",
+        "/assets/projects/toyota-lc300/ss-3.webp"
       ],
       "services": ["Web Design", "Web Development"],
       "tech": ["Vanila js", "Css", "HTML", "GSAP", "Swiper.js"]
