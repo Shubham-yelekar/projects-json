@@ -78,6 +78,20 @@
   "projectDetails": [
     {
       "id": 1,
+      "name": "Toyota LC300",
+      "url": "https://www.toyotabharat.com/showroom/lc300/",
+      "description": "At Artificial Reality I got opportunity to re-design and develope new Toyota's Land Cruiser 300 product page — crafting the entire experience from concept to code with a focus on visual storytelling, performance, and responsive design.",
+      "thumbnail": [
+        "/assets/projects/toyota-lc300/thumb.jpeg",
+        "/assets/projects/toyota-lc300/ss-1.jpeg",
+        "/assets/projects/toyota-lc300/ss-2.jpeg",
+        "/assets/projects/toyota-lc300/ss-3.jpeg"
+      ],
+      "services": ["Web Design", "Web Development"],
+      "tech": ["Vanila js", "Css", "HTML", "GSAP", "Swiper.js"]
+    },
+    {
+      "id": 2,
       "name": "Toyota Taisor",
       "url": "https://www.toyotabharat.com/showroom/urbancruiser-taisor/",
       "description": "At Artificial Reality I got opportunity to work on Toyota's Urban Cruiser Taisor product page. Experimented with various designs and interactions using GSAP and clip masks",
@@ -90,7 +104,7 @@
       "tech": ["Vanila js", "Css", "HTML", "GSAP"]
     },
     {
-      "id": 2,
+      "id": 3,
       "name": "Kalakar India Ace",
       "url": "https://next-js-kalakar-india.vercel.app/",
       "description": "Kalakar India ACE is a music studio and talent management based in Pune, focused on nurturing and promoting artists. They offer music production, talent management, and artist promotion services, creating a collaborative platform for talents to excel.",
@@ -103,7 +117,7 @@
     },
 
     {
-      "id": 3,
+      "id": 4,
       "name": "Apple Clone",
       "url": "https://applewebsitecloneshubu.netlify.app/",
       "description": "Apple Websites always inspired me and motivated me to deconstruct and re-engineer the complex interactions.",
@@ -113,19 +127,6 @@
       ],
       "services": ["Web Design", "Web Development"],
       "tech": ["React js", "Tailwind", "Framer"]
-    },
-    {
-      "id": 4,
-      "name": "Portfolio 1.0 - 2023",
-      "url": "https://shubham-yelekar.netlify.app/",
-      "description": "First portfolio website.",
-      "thumbnail": [
-        "/assets/projects/portfolio-1/thumb.jpeg",
-        "/assets/projects/portfolio-1/ss-1.jpeg",
-        "/assets/projects/portfolio-1/ss-2.jpeg"
-      ],
-      "services": ["Web Design", "Web Development"],
-      "tech": ["Vanila js", "Css", "Rive Animations"]
     }
   ]
 }
