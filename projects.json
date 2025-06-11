@@ -145,12 +145,14 @@
       "title": "Hello World Blog",
       "slug": "hello-world-blog",
       "description": "An introduction to the Hello World blog post.",
+      "data": "12 June 2025",
       "Component": "Hello"
     },
     {
       "title": "Another Blog Post",
       "slug": "another-blog-post",
       "description": "Details about another blog post.",
+      "data": "12 June 2025",
       "Component": "Another"
     }
   ]
