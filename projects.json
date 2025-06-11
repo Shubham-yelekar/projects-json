@@ -139,5 +139,19 @@
       "services": ["Web Design", "Web Development"],
       "tech": ["React js", "Tailwind", "Framer"]
     }
+  ],
+  "blogPosts": [
+    {
+      "title": "Hello World Blog",
+      "slug": "hello-world-blog",
+      "description": "An introduction to the Hello World blog post.",
+      "Component": "Hello"
+    },
+    {
+      "title": "Another Blog Post",
+      "slug": "another-blog-post",
+      "description": "Details about another blog post.",
+      "Component": "Another"
+    }
   ]
 }
