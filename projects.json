@@ -142,18 +142,28 @@
   ],
   "blogPosts": [
     {
+      "title": "Space Time Complexity",
+      "slug": "space-time-complexity",
+      "description": "Week one of the Namaste DSA course I’ve learned the Space time complexity concept , here are the few point I’ve noted",
+      "date": "12 June 2025",
+      "Component": "space-time-complexity",
+      "active": false
+    },
+    {
       "title": "Hello World Blog",
       "slug": "hello-world-blog",
       "description": "An introduction to the Hello World blog post.",
       "date": "12 June 2025",
-      "Component": "Hello"
+      "Component": "Hello",
+      "active": true
     },
     {
       "title": "Another Blog Post",
       "slug": "another-blog-post",
       "description": "Details about another blog post.",
       "date": "12 June 2025",
-      "Component": "Another"
+      "Component": "Another",
+      "active": true
     }
   ]
 }
